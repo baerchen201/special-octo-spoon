@@ -1,1 +1,1 @@
-audio.pause();
+audio.play();
